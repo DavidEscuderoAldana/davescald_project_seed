@@ -37,6 +37,11 @@
 
 	<developers>
 		<developer>
+			<id>davescald</id>
+			<name>DavidEscuderoAldana</name>
+			<email>davescald@alum.us.es</email>
+			</developer>
+		<developer>
 			<name>JAParejo</name>
 			<email>japarejo@gmail.com</email>
 			<url>http://www.isa.us.es</url>
